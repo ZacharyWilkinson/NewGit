@@ -1,1 +1,2 @@
 # NewGit
+new line
